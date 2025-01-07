@@ -1,0 +1,15 @@
+black
+matplotlib
+flake8
+isort
+loguru
+mkdocs
+pip
+python-dotenv
+tqdm
+typer
+opencv-contrib-python
+-e .
+scikit-image
+seaborn
+imblearn
