@@ -57,7 +57,7 @@ Additionally, there is a `predict` folder containing images for which prediction
 
 ## 3. Download and Prepare the Dataset
 
-1. Download the dataset ( > 500MB) from [Google Drive](https://drive.google.com/file/d/1tpfmXVen8hTN1ahOdqx4W5TPY8UqabDR/view?usp=sharing).
+1. Download the dataset ( > 500MB) from [Google Drive](https://drive.google.com/file/d/1QX6_PH7nBxPRkY-HtqNMs0TlVyybs3K3/view?usp=sharing).
 2. Extract the dataset into the `data/raw` directory:
 
 ```bash
